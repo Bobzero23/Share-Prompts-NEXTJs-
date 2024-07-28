@@ -1,0 +1,2 @@
+*** Documentation *** 
++ Layout.Jsx it is the page where you put the components you want them to appear accross all the pages of the website.
