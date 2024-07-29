@@ -1,2 +1,5 @@
 *** Documentation *** 
 + Layout.Jsx it is the page where you put the components you want them to appear accross all the pages of the website.
++ next-auth provides so many important features such us sign in, sign out, use session, providers and many mores.
++ getProvider allowing us to be able to login different ways like using google, email, etc.
++
