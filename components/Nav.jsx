@@ -15,9 +15,6 @@ const Nav = () => {
       const response = await getProviders();
       setProviders(response); //updating the state
     };
-
-    //we have to call it here cuz the method is not being called anywhere
-    setProviders();
   }, []);
 
   return (
