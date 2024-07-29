@@ -1,5 +1,9 @@
+THIS PROJECT IS FOR LEARNING PURPOSE WHICH IS WAS DONE FOLLOWING THE YOUTUBE LINK BELOW
+https://www.youtube.com/watch?v=wm5gMKuwSYk&t=3691s
+
+
 *** Documentation *** 
 + Layout.Jsx it is the page where you put the components you want them to appear accross all the pages of the website.
 + next-auth provides so many important features such us sign in, sign out, use session, providers and many mores.
 + getProvider allowing us to be able to login different ways like using google, email, etc.
-+
++ To get the google providers go to "console.cloud.google.com" there you have to create a new project 
