@@ -7,3 +7,4 @@ https://www.youtube.com/watch?v=wm5gMKuwSYk&t=3691s
 + next-auth provides so many important features such us sign in, sign out, use session, providers and many mores.
 + getProvider allowing us to be able to login different ways like using google, email, etc.
 + To get the google providers go to "console.cloud.google.com" there you have to create a new project 
++ Add a link for authorized redirect URI's where you will have to add the provider too, thus you will be able to get rid of the google page 400 erro.
