@@ -16,8 +16,7 @@ const Form = ({ type, post, setPost, submitting, handleSubmit }) => {
         className="mt-10 w-full max-w-2xl flex flex-col gap-7 glassmorphism"
       >
         <label htmlFor="">
-          <span className="font-satoshi font-semibold text-base text-gray=700">
-            {" "}
+          <span className="font-satoshi font-semibold text-base text-gray-700">
             Your AI Prompt
           </span>
           <textarea
@@ -29,8 +28,7 @@ const Form = ({ type, post, setPost, submitting, handleSubmit }) => {
           />
         </label>
         <label htmlFor="">
-          <span className="font-satoshi font-semibold text-base text-gray=700">
-            {" "}
+          <span className="font-satoshi font-semibold text-base text-gray-700">
             Tag{" "}
             <span className="font-normal">
               (#product, #webdevelopment, #idea)
